@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+calendar
+warnings
+datetime
+numpy
+xlrd
